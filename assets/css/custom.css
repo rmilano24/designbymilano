@@ -46,7 +46,7 @@
  ***********************************************************************************/
 
  	body {
-		font: 16px/24px 'Playfair Display', Georgia, serif;;
+		font: 16px/24px 'Playfair Display', Georgia, serif;
 		background-color: #fff;
 		color: #989EA3;
 	}
@@ -125,6 +125,14 @@
 		font-size: 1.7rem;
 		line-height: 2.117647059;
 	}
+
+  .testimonial {
+    font-family: 'Playfair Display', Georgia, serif;
+    color: #333E48;
+    font-size: 36px !important;
+		line-height: 42px;
+		margin-bottom: 16px;
+  }
 
 	a {
 		color: #DAA25A;
