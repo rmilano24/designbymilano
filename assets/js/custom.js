@@ -84,19 +84,21 @@
 
 		var sticky_point = 121;
 
-		$("#header").clone().attr({
+	/*	$("#header").clone().attr({
 			id: "header-sticky",
 			class: ""
-		}).insertAfter("header");
+		}).insertAfter("header"); */
 
 		$(window).scroll(function(){
 
 			if ($(window).scrollTop() > sticky_point) {
-				$("#header-sticky").slideDown(300).addClass("header-sticky");
-				$("#header .menu ul, #header .menu .megamenu-container").css({"visibility": "hidden"});
+			//	$("#header-sticky").slideDown(300).addClass("header-sticky");
+			//	$("#header .menu ul, #header .menu .megamenu-container").css({"visibility": "hidden"});
+				$('#header').addClass('scrolled');
 			} else {
-				$("#header-sticky").slideUp(100).removeClass("header-sticky");
-				$("#header .menu ul, #header .menu .megamenu-container").css({"visibility": "visible"});
+			//	$("#header-sticky").slideUp(100).removeClass("header-sticky");
+			//	$("#header .menu ul, #header .menu .megamenu-container").css({"visibility": "visible"});
+			$('#header').removeClass('scrolled');
 			}
 
 		});

@@ -64,7 +64,7 @@
 
 	h1 {
 		font-size: 36px;
-		line-height: 42px;
+		line-height: 48px;
 		margin-bottom: 16px;
 	}
 
@@ -125,14 +125,38 @@
 		font-size: 1.7rem;
 		line-height: 2.117647059;
 	}
+  #header {
+    z-index: 999999;
+    position: fixed !important;
+    top: 0;
+    width:100%;
+    background: #fff;
+  }
 
+.hello #header {
+  background-color: transparent;
+}
+
+  .hello #header.scrolled {
+    background-color:#FFF;
+  }
   .testimonial {
+    padding: 0 50px;
+  }
+
+  .testimonial p {
     font-family: 'Playfair Display', Georgia, serif;
     color: #333E48;
-    font-size: 36px !important;
-		line-height: 42px;
+    font-size: 36px;
+		line-height: 52px;
 		margin-bottom: 16px;
   }
+
+.testimonial .person {
+  margin-bottom: 20px;
+  font-size: 1.7rem;
+  line-height: 2.117647059;
+}
 
 	a {
 		color: #DAA25A;
