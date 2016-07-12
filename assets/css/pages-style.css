@@ -97,7 +97,9 @@
 
 	#logo {
 		max-width: 100%;
-		margin: 40px 0 48px;
+		margin: 40px 0 40px;
+    height:64px;
+    position:relative;
 	}
 
 	#logo a {
@@ -105,6 +107,14 @@
 		max-width: 100%;
 		text-align: center;
 	}
+#logo img {
+  position:absolute;
+  left:0;
+  top:0;
+}
+  .logo-dark {
+    display: none;
+  }
 
 /***********************************************************************************
  *	- MENU
@@ -138,7 +148,7 @@
 	.menu > li > a {
 		position: relative;
 		margin-right: 14px;
-		padding: 10px 10px 48px;
+		padding: 10px 10px 0px;
 		font-size: 18px;
 		line-height: 26px;
 		font-weight: 300 !important;
@@ -146,16 +156,21 @@
 		color: #443E48;
 	}
 
-  .hello .menu > li > a {
+  .home .menu > li > a {
     color: #fff;
   }
 
-  .hello #page-content {
+  .home .scrolled .menu > li > a {
+    color: #333E48;
+  }
+
+  .home #page-content {
     padding-top: 75px;
   }
 
 	.menu > li:last-child > a {
 		margin-right: 0;
+    padding-right: 0;
 	}
 
 	.menu li.dropdown ul {
@@ -348,92 +363,62 @@
  *	- BACKGROUND VIDEO
  ***********************************************************************************/
 
- .hello .overlayVideo {
- position: absolute;
- left: -3000px;
- top: 0px;
- z-index: 6;
- visibility: hidden;
+.masthead {
+    position: relative;
+    min-width: 720px;
 }
-.hello .backgroundVideo {
- z-index: 4;
- visibility: hidden;
+.masthead-video {
+    z-index: 0;
 }
-.hello #video_container {
- width: 100%;
- height: 100%;
- overflow: hidden;
- position: relative;
- z-index: 1;
- opacity: 1;
+.masthead-overlay {
+    background-color: #000;
+    opacity: 0.2;
+    position: absolute;
+    top: 0; left: 0;
+    bottom: 0; right: 0;
+    width: 100%;
+    height: 100%;
 }
-.hello #video_container #text {
- position: absolute;
- z-index: 6;
- text-align: center;
- opacity: 0;
+
+.masthead h1 {
+    position: absolute;
+    width: 100%;
+    font-size: 55px;
+    text-align: center;
+    height: 50px;
+    line-height: 1;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    color: #fff;
 }
-.hello #video_container #text #actions {
- height: 95px;
+.masthead h1 span {
+    display: block;
+    font-size: 18px;
+    letter-spacing: 0.43em;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding-left: 7px;
+    opacity: 0.5;
 }
-.hello #video_container #text #playbutton {
- z-index: 3;
- margin: 0 auto;
- margin-top: 60px;
- height: 95px;
- display: block;
+
+.masthead-arrow {
+    position: absolute;
+    bottom: 25px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    width: 30px;
+    height: 30px;
+    border-right: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    opacity: 0.4;
 }
-.hello #video_container #text #playbutton .rectangle {
- background-color: #3ea9f5;
- width: 149px;
- height: 95px;
- opacity: 0.8;
- margin: 0 auto;
-}
-.hello #video_container #text #playbutton .rectangle:hover {
- background-color: #52bdff;
- cursor: pointer;
-}
-.hello #video_container #text #playbutton .triangle {
- width: 0;
- height: 0;
- border-style: solid;
- border-width: 22px 0 22px 32px;
- border-color: transparent transparent transparent white;
- margin: 0 auto;
- position: relative;
- bottom: 70px;
- pointer-events: none;
-}
-.hello #cover_all {
- position: absolute;
- top: 0;
- left: 0;
- z-index: 5;
- height: 100%;
- width: 100%;
-}
-.hello #ex {
- position: absolute;
- right: -3000px;
- top: 25px;
- z-index: 7;
- cursor: pointer;
- opacity: 0.8;
-}
-.hello #ex:hover {
- opacity: 1;
-}
-.hello #main-image {
- position: absolute;
- top: 0;
- left: 0;
- z-index: 3;
- background-image: url(../images/main.jpg);
- background-repeat: no-repeat;
- background-position: 50% 50%;
- background-size: cover;
-}
+
 
 /***********************************************************************************
  *	- STICKY
@@ -487,7 +472,7 @@
 
 	#page-header {
 		padding: 75px 0;
-    margin-top: 140px;
+    margin-top: 144px;
 		margin-bottom: 100px;
 		background-color: #fafafa;
 	}
@@ -508,17 +493,71 @@
 		border: 3px solid #383838;
 	}
 
+  /***********************************************************************************
+   *	Next Project
+   ***********************************************************************************/
+
+   .next-project {
+     height: 480px;
+   }
+
+  #barre {
+    background-image:url('../../work/next/next_the-barre-studio.jpg'); padding:100px 0 0px 0; margin-bottom: 0px;
+  }
+
+
 /***********************************************************************************
  *	+ FOOTER
  ***********************************************************************************/
 
 	#footer-container {
-		padding: 100px 0;
+		padding: 50px 0 30px 0;
 		font-size: 14px;
 		line-height: 24px;
-		background-color: #DAA25A;
+		background-color: #333E48;
 		color: #fff;
 	}
+
+  .cta {
+    padding: 150px 0 150px 0;
+  }
+
+  .cta a {
+    color: #fff;
+    text-align: center;
+    font-size:50px;
+    font-weight: 400;
+    font-style: italic;
+    letter-spacing: 2px;
+    display: block;
+  }
+
+  .contact-info ul {
+    margin-top: 33px;
+  }
+
+  .contact-info li {
+    display: inline;
+
+  }
+
+  .contact-info li::before {
+    content: "//";
+    padding: 0px 10px 0px 10px;
+  }
+
+  .contact-info li:first-child::before {
+    content: "";
+  }
+
+  .contact-info li:first-child {
+    padding-left:0;
+  }
+
+  .branding {
+    text-align: right;
+
+  }
 
 	#footer-container a {
 		color: inherit;
@@ -980,7 +1019,7 @@
 				transform: scale(1);
 	}
 
-	.portfolio-item:hover .portfolio-item-thumbnail .portfolio-item-details {
+	.portfolio-item .portfolio-item-thumbnail:hover .portfolio-item-details {
 		bottom: 0;
 		opacity: 1;
 	}

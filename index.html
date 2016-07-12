@@ -47,7 +47,7 @@
 
 </head>
 
-<body class="hello">
+<body class="home">
 
   <!-- HEADER -->
   <header id="header">
@@ -57,7 +57,8 @@
               <div class="col-sm-3">
                   <div id="logo">
                     <a href="index.html">
-                      <img src="assets/images/logo.png" alt="">
+                      <img class="logo-dark" width="58" height="64" src="assets/images/milano-design-santa-cruz.png" alt="Web and Mobile Design in Santa Cruz">
+                      <img class="logo-light" width="58" height="64" src="assets/images/milano-design.png" alt="Web and Mobile Design in Santa Cruz">
                     </a>
                   </div>
               </div>
@@ -82,14 +83,25 @@
 
   </header><!-- HEADER -->
 
+
+  <!-- Video Markup -->
+	<section class="masthead">
+		<video class="masthead-video" autoplay loop muted poster="assets/images/poster.jpg">
+			<source src="assets/video/hero-video.mp4" type="video/mp4">
+			<source src="assets/video/hero-video.webm" type="video/webm">
+		</video>
+		<div class="masthead-overlay"></div>
+		<div class="masthead-arrow"></div>
+		<h1>Elegant Solutions for Web & Mobile</h1>
+
+	</section>
+
+
 	<div id="main-container">
-
-
 
 
         <!-- CONTENT -->
         <div id="page-content">
-
 
 
 
@@ -441,38 +453,38 @@
         <footer id="footer-container">
 
 
+          <div class="col-sm-12 cta">
+
+            <a href="/contact">Start Your Project</a>
+
+    		  </div>
+
 
 			<div id="footer-bottom">
 
 				<div class="container">
 					<div class="row">
-						<div class="col-sm-5">
+						<div class="col-sm-7">
 
-							<div class="widget widget-text">
+							<div class="contact-info">
 
-								<p class="copyright last">All Rights Reserved &copy; Milothemes 2016</p>
+                <ul>
+                  <li>&copy; 2016 Milano Design</li>
+                  <li>831-239-6605</li>
+                  <li>805 Rosedale Ave. Capitola, CA 95010</li>
+                  <li><a href="/contact.html">Contact</a></li>
+                </ul>
 
-							</div><!-- widget-text -->
-
-						</div><!-- col -->
-						<div class="col-sm-2">
-
-							<div class="widget widget-text">
-
-								<p class="text-center last"><img src="assets/images/simbol.png" alt=""></p>
 
 							</div><!-- widget-text -->
 
 						</div><!-- col -->
+
 						<div class="col-sm-5">
 
-							<div class="widget widget-pages">
+							<div class="branding">
 
-								<ul>
-									<li><a href="#">Term Of Use</a></li>
-									<li><a href="#">Privacy Policy</a></li>
-									<li><a href="#l">Contact</a></li>
-								</ul>
+							<img width="45" height="51" src="assets/images/milano-design.png" alt="Creative Branding Agency in Santa Cruz" />
 
 							</div><!-- widget-pages -->
 
@@ -561,6 +573,16 @@
     <!-- CUSTOM JS -->
     <script src="assets/js/custom.js"></script>
 
+  <script src="assets/js/covervid.min.js"></script>
+  <script src="assets/js/scripts.js"></script>
+
+    <!-- Call CoverVid -->
+	<script type="text/javascript">
+		// If using jQuery
+			// $('.masthead-video').coverVid(1920, 1080);
+		// If not using jQuery (Native Javascript)
+			coverVid(document.querySelector('.masthead-video'), 640, 360);
+	</script>
 
 
 </body>

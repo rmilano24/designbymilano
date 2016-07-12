@@ -49,6 +49,7 @@
 		font: 16px/24px 'Playfair Display', Georgia, serif;
 		background-color: #fff;
 		color: #989EA3;
+    text-rendering: optimizeLegibility;
 	}
 
 	h1,
@@ -133,11 +134,11 @@
     background: #fff;
   }
 
-.hello #header {
+.home #header {
   background-color: transparent;
 }
 
-  .hello #header.scrolled {
+  .home #header.scrolled {
     background-color:#FFF;
   }
   .testimonial {
@@ -1799,7 +1800,7 @@
 		margin-bottom: -50px;
 		padding-top: 0;
 		padding-bottom: 40px;
-		background-color: #f7f7f7;
+		background-color: #ECF1F3;
 	}
 
 	#section-6 {
