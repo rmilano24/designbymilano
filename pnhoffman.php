@@ -12,7 +12,7 @@
 						</div><!-- col -->
                         <div class="col-sm-9">
 
-                            <h2>The Barre Studio</h2>
+                            <h2>PN Hoffman</h2>
 
                         </div><!-- col -->
                     </div><!-- row -->
@@ -29,9 +29,34 @@
               </div><!-- row -->
             </div><!-- container -->
 
+          </div><!-- PAGE CONTENT -->
+
+            <a href="redwood-engineering.php">
+              <section class="full-section dark-section next-project" id="redwood-engineering">
+
+              <div class="full-section-container">
+
+                <div class="container">
+                  <div class="row">
+                    <div class="col-sm-12">
+
+                      <div class="headline">
+
+                        <h2>Next</h2>
+                        <h6>Redwood Engineering</h6>
+
+                      </div><!-- headline -->
+
+                    </div><!-- col -->
+                  </div><!-- row -->
+                </div><!-- container -->
+
+              </div><!-- full-section-container -->
+
+            </section>
+          </a>
 
 
-        </div><!-- PAGE CONTENT -->
 
 
       <?php include 'inc/footer.php'; ?>

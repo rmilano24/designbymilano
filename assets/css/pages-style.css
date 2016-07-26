@@ -263,7 +263,7 @@
  *	- MOBILE MENU
  ***********************************************************************************/
 
-	#mobile-menu-button {
+	.mobile-menu-button {
 		float: right;
 		display: none;
 		font-size: 18px;
@@ -279,15 +279,13 @@
 				transition: all 0.3s;
 	}
 
-	#mobile-menu-button:hover {
+	.mobile-menu-button:hover {
 		border-color: #DAA25A;
 		color: #DAA25A;
 	}
 
-	#mobile-menu {}
-
-	#mobile-menu,
-	#mobile-menu ul {
+	.mobile-menu,
+	.mobile-menu ul {
 		list-style: none;
 		display: none;
 		margin: 0;
@@ -295,7 +293,7 @@
 		color: #fff;
 	}
 
-	#mobile-menu li a {
+	.mobile-menu li a {
 		display: block;
 		padding: 10px 20px;
 		font-size: 12px;
@@ -307,44 +305,44 @@
 		color: #fff;
 	}
 
-	#mobile-menu > li > a {
+	.mobile-menu > li > a {
 		font-size: 13px;
 		font-weight: 900;
 	}
 
-	#mobile-menu ul a {
+	.mobile-menu ul a {
 		padding-left: 40px;
 	}
 
-	#mobile-menu ul ul a {
+	.mobile-menu ul ul a {
 		padding-left: 60px;
 	}
 
-	#mobile-menu .megamenu-container {
+	.mobile-menu .megamenu-container {
 		display: none;
 		margin-left: 0;
 	}
 
-	#mobile-menu .megamenu-container .section {
+	.mobile-menu .megamenu-container .section {
 		float: none;
 		width: 100%;
 		padding: 0 20px 20px 20px;
 	}
 
-	#mobile-menu .megamenu-container .section ul {
+	.mobile-menu .megamenu-container .section ul {
 		display: block;
 		margin: 0 -25px -20px;
 	}
 
-	#mobile-menu li.cart > a,
-	#mobile-menu li.dropdown > a,
-	#mobile-menu li.megamenu > a {
+	.mobile-menu li.cart > a,
+	.mobile-menu li.dropdown > a,
+	.mobile-menu li.megamenu > a {
 		position: relative;
 	}
 
-	#mobile-menu li.cart > a:after,
-	#mobile-menu li.dropdown > a:after,
-	#mobile-menu li.megamenu > a:after {
+	.mobile-menu li.cart > a:after,
+	.mobile-menu li.dropdown > a:after,
+	.mobile-menu li.megamenu > a:after {
 		position: absolute;
 		top: 7px;
 		right: 20px;
@@ -353,9 +351,9 @@
 		font-weight: 500;
 	}
 
-	#mobile-menu li.cart > a.open:after,
-	#mobile-menu li.dropdown > a.open:after,
-	#mobile-menu li.megamenu > a.open:after {
+	.mobile-menu li.cart > a.open:after,
+	.mobile-menu li.dropdown > a.open:after,
+	.mobile-menu li.megamenu > a.open:after {
 		content: "-";
 	}
 
@@ -499,10 +497,47 @@
 
    .next-project {
      height: 480px;
+     padding-top: 200px;
+     margin-bottom: 0px;
+     background-size: cover;
+   }
+
+   .next-project h2, .next-project h6 {
+     color: #fff;
+     text-align: right;
    }
 
   #barre {
-    background-image:url(../../images/work/next/next_the-barre-studio.jpg); padding:100px 0 0px 0; margin-bottom: 0px;
+    background-image:url(../../images/work/next/next_the-barre-studio.jpg);
+  }
+
+  #jars-by-dani {
+    background-image:url(../../images/work/next/next_jbd.jpg);
+  }
+
+  #rustic-ales {
+    background-image:url(../../images/work/next/next_rustic-ales.jpg);
+  }
+
+  #ohm-light {
+    background-image:url(../../images/work/next/next_ohm.png);
+  }
+
+  #pnhoffman {
+    background-image:url(../../images/work/next/next_pnhoffman.jpg);
+    background-position: top center;
+  }
+
+  #redwood-engineering {
+    background-image:url(../../images/work/next/next_redwood.jpg);
+  }
+
+  #sante-winery {
+    background-image:url(../../images/work/next/next_sante-winery.jpg);
+  }
+
+  #aatma {
+    background-image:url(../../images/work/next/next_aatma.jpg);
   }
 
 
@@ -1627,11 +1662,11 @@
 			display: none;
 		}
 
-		#mobile-menu li.cart {
+		.mobile-menu li.cart {
 			border-top: 1px solid #fff;
 		}
 
-		#mobile-menu li.cart i {
+		.mobile-menu li.cart i {
 			display: none;
 		}
 
@@ -1641,26 +1676,26 @@
 			border: none;
 		}
 
-		#mobile-menu li .cart_list .product_item a {
+		.mobile-menu li .cart_list .product_item a {
 			padding: 0;
 			border-bottom: none;
 		}
 
-		#mobile-menu li .widget_shopping_cart .buttons a {
+		.mobile-menu li .widget_shopping_cart .buttons a {
 			display: inline-block;
 			padding: 4px 12px;
 			border: 2px solid #fff;
 		}
 
-		#mobile-menu li .widget_shopping_cart .buttons a:hover {
+		.mobile-menu li .widget_shopping_cart .buttons a:hover {
 			border-color: #DAA25A;
 		}
 
-		#mobile-menu li.cart ul {
+		.mobile-menu li.cart ul {
 			display: block;
 		}
 
-		#mobile-menu-button {
+		.mobile-menu-button {
 			display: block;
 		}
 
@@ -1758,11 +1793,11 @@
 			display: none;
 		}
 
-		#mobile-menu li.cart {
+		.mobile-menu li.cart {
 			border-top: 1px solid #fff;
 		}
 
-		#mobile-menu li.cart i {
+		.mobile-menu li.cart i {
 			display: none;
 		}
 
@@ -1772,26 +1807,26 @@
 			border: none;
 		}
 
-		#mobile-menu li .cart_list .product_item a {
+		.mobile-menu li .cart_list .product_item a {
 			padding: 0;
 			border-bottom: none;
 		}
 
-		#mobile-menu li .widget_shopping_cart .buttons a {
+		.mobile-menu li .widget_shopping_cart .buttons a {
 			display: inline-block;
 			padding: 4px 12px;
 			border: 2px solid #fff;
 		}
 
-		#mobile-menu li .widget_shopping_cart .buttons a:hover {
+		.mobile-menu li .widget_shopping_cart .buttons a:hover {
 			border-color: #DAA25A;
 		}
 
-		#mobile-menu li.cart ul {
+		.mobile-menu li.cart ul {
 			display: block;
 		}
 
-		#mobile-menu-button {
+		.mobile-menu-button {
 			position: absolute;
 			top: 2px;
 			right: 20px;

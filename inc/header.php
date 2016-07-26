@@ -15,7 +15,6 @@
     <link rel="shortcut icon" href="favicon.png">
 	  <link rel="apple-touch-icon-precomposed" sizes="180x180" href="apple-touch-180x180.png">
 
-
     <link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Open+Sans:400,300|Playfair+Display:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
 
     <!-- BOOTSTRAP CSS -->
@@ -44,6 +43,10 @@
     <link rel="stylesheet" href="assets/css/custom.css">
     <link rel="stylesheet" href="assets/css/pages-style.css">
 
+    <link rel="stylesheet" type="text/css" href="assets/css/normalize.css" />0
+		<link rel="stylesheet" type="text/css" href="assets/css/style9.css" />
+		<script src="assets/js/snap.svg-min.js"></script>
+  	<script src="assets/js/modernizr.custom.js"></script>
 
 </head>
 
@@ -63,9 +66,8 @@
               </div>
               <div class="col-sm-9">
                   <nav>
-
-                      <a id="mobile-menu-button" href="#"><i class="mt-icon-menu"></i></a>
-
+                      <a id="trigger-overlay" class="mobile-menu-button" href="#"><i class="mt-icon-menu"></i></a>
+                      
                       <ul class="menu clearfix" id="menu">
                           <li><a href="work.php">work</a></li>
                           <li><a href="about.php">about</a></li>

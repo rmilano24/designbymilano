@@ -30,5 +30,30 @@
       			</div><!-- container -->
             </div><!-- PAGE CONTENT -->
 
+            <a href="jars-by-dani.php">
+              <section class="full-section dark-section next-project" id="jars-by-dani">
+
+      				<div class="full-section-container">
+
+      					<div class="container">
+      						<div class="row">
+      							<div class="col-sm-12">
+
+      								<div class="headline">
+
+      									<h2>Next</h2>
+      									<h6>Jars by Dani</h6>
+
+      								</div><!-- headline -->
+
+      							</div><!-- col -->
+      						</div><!-- row -->
+      					</div><!-- container -->
+
+      				</div><!-- full-section-container -->
+
+      			</section>
+          </a>
+
 
 <?php include 'inc/footer.php'; ?>

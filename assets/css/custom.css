@@ -1579,7 +1579,7 @@
 
 	.full-section {
 		position: relative;
-		z-index: 1;
+		/*z-index: 1;*/
 		margin-bottom: 100px;
 		padding: 60px 0;
 		background: no-repeat center center;

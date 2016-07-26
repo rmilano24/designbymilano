@@ -44,6 +44,11 @@
     <link rel="stylesheet" href="assets/css/custom.css">
     <link rel="stylesheet" href="assets/css/pages-style.css">
 
+    <link rel="stylesheet" type="text/css" href="assets/css/normalize.css" />
+		<link rel="stylesheet" type="text/css" href="assets/css/style9.css" />
+		<script src="assets/js/snap.svg-min.js"></script>
+  	<script src="assets/js/modernizr.custom.js"></script>
+
 
 </head>
 
@@ -65,7 +70,7 @@
               <div class="col-sm-9">
                   <nav>
 
-                      <a id="mobile-menu-button" href="#"><i class="mt-icon-menu"></i></a>
+                    <a id="trigger-overlay" class="mobile-menu-button" href="#"><i class="mt-icon-menu"></i></a>
 
                       <ul class="menu clearfix" id="menu">
                           <li><a href="work.php">work</a></li>

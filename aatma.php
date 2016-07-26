@@ -66,11 +66,7 @@
 			</div><!-- container -->
       </div><!-- PAGE CONTENT -->
 
-
-
-
-
-        <a href="the-barre-studio.php">
+      <a href="the-barre-studio.php">
         <section class="full-section dark-section next-project" id="barre">
 
 				<div class="full-section-container">
@@ -93,6 +89,6 @@
 				</div><!-- full-section-container -->
 
 			</section>
-      </a>
+    </a>
 
 <?php include 'inc/footer.php'; ?>

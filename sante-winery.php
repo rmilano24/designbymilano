@@ -32,5 +32,30 @@
 
         </div><!-- PAGE CONTENT -->
 
+        <a href="aatma.php">
+          <section class="full-section dark-section next-project" id="aatma">
+
+          <div class="full-section-container">
+
+            <div class="container">
+              <div class="row">
+                <div class="col-sm-12">
+
+                  <div class="headline">
+
+                    <h2>Next</h2>
+                    <h6>Aatma Studio</h6>
+
+                  </div><!-- headline -->
+
+                </div><!-- col -->
+              </div><!-- row -->
+            </div><!-- container -->
+
+          </div><!-- full-section-container -->
+
+        </section>
+      </a>
+
 
       <?php include 'inc/footer.php'; ?>
