@@ -1026,7 +1026,7 @@
 	.rotate-links {
 		position: absolute;
 		top: 50%;
-		left: -100px;
+		left: -60px;
 		-webkit-transform: rotate(-90deg);
 			-ms-transform: rotate(-90deg);
 				transform: rotate(-90deg);

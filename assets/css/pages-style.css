@@ -491,6 +491,15 @@
 		border: 3px solid #383838;
 	}
 
+  .owl-carousel {
+    background-size: cover;
+    height: 500px;
+  }
+
+  .aatma {
+    background-image:url(../../images/work/next/next_aatma.jpg);
+  }
+
   /***********************************************************************************
    *	Next Project
    ***********************************************************************************/
