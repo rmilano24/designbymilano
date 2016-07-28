@@ -493,11 +493,39 @@
 
   .owl-carousel {
     background-size: cover;
-    height: 500px;
+    height: 570px;
   }
 
   .aatma {
-    background-image:url(../../images/work/next/next_aatma.jpg);
+    background-image:url(../../images/work/headers/aatma.jpg);
+  }
+
+  .barre {
+    background-image:url(../../images/work/next/next_the-barre-studio.jpg);
+  }
+
+  .jars-by-dani {
+    background-image:url(../../images/work/next/next_jbd.jpg);
+  }
+
+  .ohm-light {
+    background-image:url(../../images/work/next/next_ohm.png);
+  }
+
+  .pnhoffman {
+    background-image:url(../../images/work/next/next_pnhoffman.jpg);
+  }
+
+  .redwood-engineering {
+    background-image:url(../../images/work/next/next_redwood.jpg);
+  }
+
+  .sante-winery {
+    background-image:url(../../images/work/next/next_sante-winery.jpg);
+  }
+
+  .assembly-tek {
+    background-image:url(../../images/work/next/next_assembly.jpg);
   }
 
   /***********************************************************************************
@@ -546,7 +574,7 @@
   }
 
   #aatma {
-    background-image:url(../../images/work/next/next_aatma.jpg);
+    background-image:url(../../images/work/headers/aatma.jpg);
   }
 
 

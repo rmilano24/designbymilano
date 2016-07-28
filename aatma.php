@@ -65,12 +65,9 @@
       					</div><!-- col -->
       					<div class="col-md-8 col-sm-6">
 
-      						<h4 class="text-default-color">A fantastic road</h4>
+      						<h4 class="text-default-color">The Company</h4>
 
-      						<br>
-
-      						<p>Suspendisse metus turpis, blandit sed dolor quis, commodo commodo elit. Sed sagittis mollis ligula eget rhoncus. Nam blandit
-      						pellentesque odio.Sus pendisse metus turpis, blandit sed dolor quis, com modo commodo elit. Sed sagittis mollis.</p>
+      						<p>aatma is a creative animation company. we propel storytelling for visionary marketers.</p>
 
 
 
@@ -102,13 +99,7 @@
 
       									<div class="portfolio-item-thumbnail">
 
-      										<img src="images/portfolio/image-49.jpg" alt="">
-
-      										<div class="portfolio-item-hover">
-
-      											<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-49.jpg">+</a>
-
-      										</div><!-- portfolio-item-hover -->
+      										<img src="images/work/aatma/aatma-mobile.jpg" alt="mobile design">
 
       									</div><!-- portfolio-item-thumbnail -->
 
@@ -121,69 +112,46 @@
       				</div><!-- row -->
       			</div><!-- container -->
 
-      			<br><br><br>
-
-      			<div class="container">
+            <div class="container">
       				<div class="row">
-      					<div class="col-md-4 col-sm-6">
+      					<div class="col-sm-12">
 
-      						<div class="portfolio-item">
+      						<div class="portfolio-item portfolio-creative thumbnail-left">
 
-      							<div class="portfolio-item-thumbnail">
+      							<div class="row">
 
-      								<img src="images/portfolio/image-27.jpg" alt="">
+      								<div class="col-sm-8">
 
-      								<div class="portfolio-item-hover">
+      									<div class="portfolio-item-thumbnail">
 
-      									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-27.jpg">+</a>
+      										<img src="images/work/aatma/aatma-desktop.jpg" alt="desktop">
 
-      								</div><!-- portfolio-item-hover -->
+      									</div><!-- portfolio-item-thumbnail -->
 
-      							</div><!-- portfolio-item-thumbnail -->
+      								</div><!-- col -->
 
-      						</div><!-- portfolio-item -->
+                      <div class="col-sm-4">
 
-      					</div><!-- col -->
-      					<div class="col-md-4 col-sm-6">
+      									<div class="portfolio-item-details">
 
-      						<div class="portfolio-item">
+      										<h4><a href="portfolio-single.html">Lamp design</a></h4>
+      										<h6>Campaigns</h6>
 
-      							<div class="portfolio-item-thumbnail">
+      										<p>Phasellus in ante ac tortor ali quam mollis in sit amet libero. Vesti bulum a accums.</p>
 
-      								<img src="images/portfolio/image-20.jpg" alt="">
+      									</div><!-- portfolio-item-details -->
 
-      								<div class="portfolio-item-hover">
+      								</div><!-- col -->
 
-      									<a class="fancybox zoom-action" data-fancybox-group="portfolio" href="images/portfolio/image-20.jpg">+</a>
-
-      								</div><!-- portfolio-item-hover -->
-
-      							</div><!-- portfolio-item-thumbnail -->
+      							</div><!-- row -->
 
       						</div><!-- portfolio-item -->
-
-      					</div><!-- col -->
-      					<div class="col-md-4 col-sm-12">
-
-      						<div class="headline">
-
-      							<h3>We have more <br> projects</h3>
-      							<h6>Industrial Design</h6>
-
-      						</div><!-- headline -->
-
-      						<br>
-
-      						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ultrices a magna nec posuere. Duis porttitor lacus nulla, at
-      						tincidunt sapien dapibus in phasellus vehicula convallis est.</p>
-
-      						<br>
-
-      						<a class="btn btn-black" href="#">Discover more</a>
 
       					</div><!-- col -->
       				</div><!-- row -->
       			</div><!-- container -->
+
+
 
 
 			<div class="container hero-work">

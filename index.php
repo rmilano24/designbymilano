@@ -165,8 +165,6 @@
 
 						<p class="text-right"><a href="work.php"><em><strong>View All Work</strong></em></a></p>
 
-						<p><button id="trigger-overlay" type="button">Open Overlay</button></p>
-
 					</div><!-- col -->
 				</div><!-- row -->
 			</div><!-- container -->
