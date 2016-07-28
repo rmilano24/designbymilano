@@ -97,7 +97,7 @@
 
                   <div class="portfolio-item-thumbnail">
 
-                    <img src="images/work/rustic-ales.jpg" alt="sante adairius rustic ales">
+                    <a href="rustic-ales.php"><img src="images/work/rustic-ales.jpg" alt="sante adairius rustic ales"></a>
 
                     <div class="portfolio-item-details">
 
@@ -170,6 +170,41 @@
                       <div class="portfolio-item-details">
 
         								<h4><a href="redwood-engineering.php">Redwood Engineering</a></h4>
+        								<h6>Branding // UI + UX Design // Development</h6>
+
+        							</div><!-- portfolio-item-details -->
+
+                    </div><!-- portfolio-item-thumbnail -->
+
+                  </div><!-- col -->
+                  <div class="col-sm-6">
+
+                    <div class="portfolio-item-thumbnail">
+
+                      <a href="sante-winery.php"><img src="images/work/sante-winery.jpg" alt="sante-winery"></a>
+
+                      <div class="portfolio-item-details">
+
+        								<h4><a href="sante-winery.php">Sante Winery</a></h4>
+        								<h6>Development // Ecommerce</h6>
+
+        							</div><!-- portfolio-item-details -->
+
+                    </div><!-- portfolio-item-thumbnail -->
+
+                  </div><!-- col -->
+                </div><!-- row -->
+
+                <div class="row">
+                  <div class="col-sm-6">
+
+                    <div class="portfolio-item-thumbnail">
+
+                      <a href="assemblytek.php"><img src="images/work/assemblytek.jpg" alt="assemblytek"></a>
+
+                      <div class="portfolio-item-details">
+
+        								<h4><a href="redwood-engineering.php">Assemblytek</a></h4>
         								<h6>Branding // UI + UX Design // Development</h6>
 
         							</div><!-- portfolio-item-details -->

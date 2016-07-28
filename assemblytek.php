@@ -34,7 +34,7 @@
                   <div class="row">
                     <div class="col-sm-offset-1 col-sm-11">
 
-                      <div class="owl-carousel images-slider assembly-tek">
+                      <div class="owl-carousel images-slider assemblytek">
                         <div class="item">
                           <!-- <img src="images/portfolio/slider/image-1.jpg" alt=""> -->
                         </div><!-- item -->
