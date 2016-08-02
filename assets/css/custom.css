@@ -1793,6 +1793,33 @@
 		content: "";
 	}
 
+  .capability-left:before {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 50%;
+    content: "";
+  }
+
+  #digital-strategy:before {
+    background: url(../../images/capabilities/digital-strategy-optimization.jpg) no-repeat center center;
+  }
+
+  #branding:before {
+    background: url(../../images/capabilities/branding-communications.jpg) no-repeat center center;
+  }
+
+  #web-design:before {
+    background: url(../../images/capabilities/web-design-user-experience.jpg) no-repeat center center;
+  }
+
+  #development:before {
+    background: url(../../images/capabilities/web-mobile-applications.jpg) no-repeat center center;
+  }
+
+
+
 	#section-4 {
 		margin-top: 30px;
 		padding: 100px 0 70px 0;
@@ -1824,7 +1851,7 @@
 		margin-top: -100px;
 	}
 
-	#section-7:before {
+	.capability-right:before {
 		position: absolute;
 		top: 0;
 		bottom: 0;
@@ -1853,7 +1880,7 @@
 		margin-top: 50px;
 		padding-top: 80px;
 		padding-bottom: 0;
-		background-color: #383838;
+		background: url(../../images/bg_texture.png) top left repeat;
 	}
 
 	#section-10 {
@@ -2318,7 +2345,7 @@
 		z-index: 555;
 		bottom: 0;
 		left: 15px;
-		padding: 20px 43px;
+		padding: 20px 43px;section-3"
 		background-color: #fff;
 	}
 
@@ -2337,6 +2364,11 @@
 	.testimonials-slider-navigation span i {
 		font-size: 10px;
 	}
+
+  .testimonials-slider p {
+    font-size: 20px;
+    line-height: 28px;
+  }
 
 
 	/* SERVICES SLIDER */

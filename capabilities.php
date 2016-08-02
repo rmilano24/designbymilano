@@ -26,7 +26,6 @@
 						<div class="headline">
 
 							<h1>Here's what we can do for you</h1>
-							<h6>al la carte</h6>
 
 						</div><!-- headline -->
 
@@ -34,90 +33,131 @@
 				</div><!-- row -->
 			</div><!-- container -->
 
-      <div class="container">
-				<div class="row">
-					<div class="col-sm-6">
+      <section class="full-section capability-left" id="digital-strategy">
+				<div class="full-section-container">
 
-						<p class="last wow fadeInLeft"><img src="images/backgrounds/bg-1.jpg" alt=""></p>
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-7">
 
-					</div><!-- col -->
-					<div class="col-lg-offset-1 col-sm-6 col-lg-5">
+								<!-- <p class="visible-xs"><img src="images/capabilities/digital-strategy-optimization.jpg" alt="Digital Strategy & Optimization"></p> -->
 
-						<br class="hidden-md hidden-sm"><br class="hidden-md hidden-sm">
+							</div><!-- col -->
+							<div class="col-sm-4">
 
-						<div class="headline">
+                <div class="headline">
 
-							<h2>Branding</h2>
+									<h2>Digital Strategy & Optimization</h2>
 
-						</div><!-- headline -->
+								</div><!-- headline -->
 
-						<p>First we’ll listen and learn about your audience and then we’ll create a brand identity that’s memorable and timeless.<p>
+								<p>Research, collaboration, and careful planning are the foundation for every good idea. Our proven process brings together strategic thinking with flawless execution to produce results.z</p>
 
-            <p>We’ll determine colours, typefaces, social media assets and everything you need to establish a new and compelling image which reflects your company’s values and sets you head and shoulders above your peers.</p>
+								<br>
 
+								<!-- <a class="btn btn-default" href="#">Read more</a> -->
 
-					</div><!-- col -->
-				</div><!-- row -->
-			</div><!-- container -->
+							</div><!-- col -->
+						</div><!-- row -->
+					</div><!-- container -->
 
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-5 col-sm-6">
+				</div><!-- full-section-container -->
+			</section><!-- full-section -->
 
-						<br class="hidden-sm"><br class="hidden-md hidden-sm"><br class="hidden-md hidden-sm">
+			<section class="full-section capability-right" id="web-design">
+				<div class="full-section-container">
 
-						<div class="headline">
+					<div class="container">
+						<div class="row">
 
-							<h2>Design</h2>
+							<div class="col-sm-4">
 
-						</div><!-- headline -->
+								<div class="headline">
 
-            <p>An average design doesn’t cut it today, so we take it up a notch.</p>
+									<h2>Web Design & User Experience</h2>
 
-            <p>We push ourselves to new levels of inspired excellence with each project and we sweat creativity.</p>
+								</div><!-- headline -->
 
-            <p>We’ll etch your brand onto tangible objects: business cards, ads, stickers, brochures, you name it. You won’t see anything until we’re done drooling at the result.</p>
+								<p>Creating beautiful digital experiences is what we do best. It takes art, science, psychology and trend-awareness. The result is digital experience that is both elegant and easy-to-use.</p>
 
-					</div><!-- col -->
-					<div class="col-lg-offset-1 col-sm-6">
+								<br>
 
-						<p class="wow fadeInRight"><img src="images/backgrounds/bg-7.jpg" alt=""></p>
+								<!-- <a class="btn btn-default" href="#">Read more</a> -->
 
-					</div><!-- col -->
-				</div><!-- row -->
-			</div><!-- container -->
+							</div><!-- col -->
+							<div class="col-sm-7">
 
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-6">
+								<p class="visible-xs"><img src="images/backgrounds/bg-1.jpg" alt=""></p>
 
-            <p class="last wow fadeInLeft"><img src="images/backgrounds/bg-1.jpg" alt=""></p>
+							</div><!-- col -->
+						</div><!-- row -->
+					</div><!-- container -->
 
-          </div><!-- col -->
-          <div class="col-lg-offset-1 col-sm-6 col-lg-5">
+				</div><!-- full-section-container -->
+			</section><!-- full-section -->
 
-            <br class="hidden-md hidden-sm"><br class="hidden-md hidden-sm">
+      <section class="full-section capability-left" id="branding">
+				<div class="full-section-container">
 
-            <div class="headline">
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-7">
 
-              <h2>Development</h2>
+								<p class="visible-xs"><img src="images/backgrounds/bg-4.jpg" alt=""></p>
 
-            </div><!-- headline -->
+							</div><!-- col -->
+							<div class="col-sm-4">
 
-            <p>We know the web changes all the time, so we keep our eyes peeled to stay ahead of the curve.</p>
+                <div class="headline">
 
-            <p>We craft websites that look beautiful on all different screen sizes, using clean code that search engines love.</p>
+									<h2>Brand & Communications</h2>
 
-            <br>
+								</div><!-- headline -->
 
-            <a class="btn btn-default" href="#">Read more</a>
+								<p>A brand is more than the sum of its parts. Our talented brand designers, strategic thinkers, and creative copywriters help brands discover their unique identity.</p>
 
-          </div><!-- col -->
-        </div><!-- row -->
-      </div><!-- container -->
+								<br>
 
+								<!-- <a class="btn btn-default" href="#">Read more</a> -->
 
-			<br><br>
+							</div><!-- col -->
+						</div><!-- row -->
+					</div><!-- container -->
+
+				</div><!-- full-section-container -->
+			</section><!-- full-section -->
+
+			<section class="full-section capability-right" id="development">
+				<div class="full-section-container">
+
+					<div class="container">
+						<div class="row">
+
+							<div class="col-sm-4">
+
+								<div class="headline">
+
+									<h2>Web & Mobile Applications</h2>
+
+								</div><!-- headline -->
+
+								<p>We love technology — it fuels our work. We search out and create the best performing solutions to achieve your business goals. Our technology serves our clients, not the other way around.</p>
+
+								<br>
+
+								<!-- <a class="btn btn-default" href="#">Read more</a> -->
+
+							</div><!-- col -->
+							<div class="col-sm-7">
+
+								<p class="visible-xs"><img src="images/backgrounds/bg-1.jpg" alt=""></p>
+
+							</div><!-- col -->
+						</div><!-- row -->
+					</div><!-- container -->
+
+				</div><!-- full-section-container -->
+			</section><!-- full-section -->
 
 
         </div><!-- PAGE CONTENT -->

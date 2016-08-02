@@ -53,7 +53,7 @@
 
   These are only a few of the benefits to Sketch App. If you're still using Photoshop and you aren't sure if you want to switch to Sketch, here are 12 compelling reasons to make the jump.
 
-  <h1>1. Sketch is 100% Vector-Based</h1>
+  1. Sketch is 100% Vector-Based
   Sketch is 100% Vector Based
 
   Everything you create in Sketch is 100% vector-based. This means your artwork can be 5px square or 5000px square or anywhere in between, and your work won't lose quality. In Photoshop, if you create something small like an icon and you're not using Smart Objects, the object will be horrible looking when scaled up. Having to consciously make shapes as Smart Objects in Photoshop is one extra step to take. Because Photoshop isn't built specifically for vector graphics, the experience is a little clunky and can be frustrating.
