@@ -284,6 +284,15 @@
 		color: #DAA25A;
 	}
 
+  .home .mobile-menu-button {
+    border: 3px solid #ffffff;
+    color: #ffffff;
+  }
+
+  .home .mobile-menu-button:hover {
+    text-decoration: none;
+  }
+
 	.mobile-menu,
 	.mobile-menu ul {
 		list-style: none;
@@ -357,13 +366,14 @@
 		content: "-";
 	}
 
+
 /***********************************************************************************
  *	- BACKGROUND VIDEO
  ***********************************************************************************/
 
 .masthead {
     position: relative;
-    min-width: 720px;
+    /*min-width: 720px;*/
 }
 .masthead-video {
     z-index: 0;
@@ -496,6 +506,10 @@
     height: 570px;
   }
 
+  .home .owl-carousel {
+    height: auto !important;
+  }
+
   .aatma {
     background-image:url(../../images/work/headers/aatma.jpg);
   }
@@ -530,6 +544,10 @@
 
   .rustic-ales {
     background-image:url(../../images/work/headers/rustic.jpg);
+  }
+
+  .fuse {
+    background-image:url(../../images/work/headers/fuse.jpg);
   }
 
   /***********************************************************************************
@@ -596,16 +614,20 @@
 
   .cta {
     padding: 150px 0 150px 0;
+    text-align: center;
   }
 
   .cta a {
     color: #fff;
-    text-align: center;
     font-size:50px;
     font-weight: 400;
     font-style: italic;
     letter-spacing: 2px;
-    display: block;
+    line-height: 48px;
+  }
+
+  .cta a:hover {
+    text-decoration: none;
   }
 
   .contact-info ul {
@@ -1651,13 +1673,13 @@
 		.menu > li > a {
 			margin-right: 20px;
 		}
-
 	}
 
 
 /***********************************************************************************
  *	- SMALL DISPLAY (TABLETS)
  ***********************************************************************************/
+
 
  	@media (min-width: 768px) and (max-width: 991px) {
 
@@ -1790,7 +1812,18 @@
  *	- EXTRA SMALL DISPLAY (PHONES)
  ***********************************************************************************/
 
+@media (max-width: 962px) {
+  .masthead h1 {
+    font-size: 40px;
+  }
+}
+
+
 	@media (max-width: 767px) {
+
+    .masthead h1 {
+      font-size: 30px;
+    }
 
 		#fullscreen #header {
 			position: relative;
@@ -2026,3 +2059,9 @@
 		}
 
 	}
+
+@media only screen and (max-width: 480px) {
+  .masthead h1 {
+    font-size: 20px;
+  }
+}

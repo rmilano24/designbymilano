@@ -77,7 +77,7 @@
                           <li><a href="about.php">about</a></li>
                           <li><a href="capabilities.php">capabilities</a></li>
                           <!-- <li><a href="digest.php">digest</a></li> -->
-                          <li><a href="contact.php">Contact</a></li>
+                          <li><a href="contact.php">contact</a></li>
                       </ul>
 
                 </nav>

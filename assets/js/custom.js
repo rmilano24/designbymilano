@@ -39,10 +39,10 @@
 
 				if ($("#mobile-menu").length < 1) {
 
-					$("#menu").clone().attr({
-						id: "mobile-menu",
-						class: ""
-					}).insertAfter("#header");
+			//		$("#menu").clone().attr({
+				//		id: "mobile-menu",
+					//	class: ""
+					//}).insertAfter("#header");
 
 					$("#mobile-menu .megamenu > a").on("click", function(e) {
 

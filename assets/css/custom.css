@@ -1793,6 +1793,16 @@
 		content: "";
 	}
 
+ .full-width-content {
+    padding-bottom: 0px !important;
+    margin-bottom: 0px;
+  }
+
+  .capability-left, .capability-right {
+    margin-bottom: 0px;
+    min-height: 500px;
+  }
+
   .capability-left:before {
     position: absolute;
     top: 0;

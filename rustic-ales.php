@@ -57,96 +57,22 @@
 
               <br>
 
-              <p><span class="text-uppercase"><strong>Name: </strong></span> 3d Project of an object<p>
-              <p><span class="text-uppercase"><strong>Start Date: </strong></span> Jan. 14, 2016<p>
-              <p><span class="text-uppercase"><strong>End Date: </strong></span> Jan. 30, 2016<p>
+              <p><span class="text-uppercase">UI + UX Design<p>
+              <p><span class="text-uppercase">Development [ In Progress ]<p>
 
             </div><!-- col -->
             <div class="col-md-8 col-sm-6">
 
               <h4 class="text-default-color">The Company</h4>
 
-              <p>PN Hoffman brings a balanced mix of imagination and sound thinking to create new and innovative urban environments. Since 1993, we have developed mixed-use, residential, office and retail communities all across the Washington Metropolitan area.</p>
+              <p>Sante Adairius Rustic Ales is a small, but daring, brewery located in the coastal city of Capitola, CA, just south of Santa Cruz. Our approach to beer making is one of whimsy, highly inspired by the Belgian tradition, but also in harmony with brewers all over the world who push against boundaries of style with a nudge, not a shove. </p>
 
             </div><!-- col -->
 
           </div><!-- row -->
         </div><!-- container -->
 
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-12">
 
-              <div class="portfolio-item portfolio-creative thumbnail-left">
-
-                <div class="row">
-                  <div class="col-sm-4">
-
-                    <div class="portfolio-item-details">
-
-                      <h4><a href="portfolio-single.html">Lamp design</a></h4>
-                      <h6>Campaigns</h6>
-
-                      <p>Phasellus in ante ac tortor ali quam mollis in sit amet libero. Vesti bulum a accums.</p>
-
-                    </div><!-- portfolio-item-details -->
-
-                  </div><!-- col -->
-                  <div class="col-sm-8">
-
-                    <div class="portfolio-item-thumbnail">
-
-                      <img src="images/work/rustic/rustic-mobile.jpg" alt="mobile design">
-
-                    </div><!-- portfolio-item-thumbnail -->
-
-                  </div><!-- col -->
-                </div><!-- row -->
-
-              </div><!-- portfolio-item -->
-
-            </div><!-- col -->
-          </div><!-- row -->
-        </div><!-- container -->
-
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-12">
-
-              <div class="portfolio-item portfolio-creative thumbnail-left">
-
-                <div class="row">
-
-                  <div class="col-sm-8">
-
-                    <div class="portfolio-item-thumbnail">
-
-                      <img src="images/work/rustic/rustic-desktop.jpg" alt="desktop">
-
-                    </div><!-- portfolio-item-thumbnail -->
-
-                  </div><!-- col -->
-
-                  <div class="col-sm-4">
-
-                    <div class="portfolio-item-details">
-
-                      <h4><a href="portfolio-single.html">Lamp design</a></h4>
-                      <h6>Campaigns</h6>
-
-                      <p>Phasellus in ante ac tortor ali quam mollis in sit amet libero. Vesti bulum a accums.</p>
-
-                    </div><!-- portfolio-item-details -->
-
-                  </div><!-- col -->
-
-                </div><!-- row -->
-
-              </div><!-- portfolio-item -->
-
-            </div><!-- col -->
-          </div><!-- row -->
-        </div><!-- container -->
 
             <div class="container hero-work">
               <div class="row">

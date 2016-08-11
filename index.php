@@ -8,7 +8,7 @@
 		</video>
 		<div class="masthead-overlay"></div>
 		<div class="masthead-arrow"></div>
-		<h1>Elegant Solutions for Web & Mobile</h1>
+		<h1>Elegant Solutions for Web & Mobile!</h1>
 
 	</section>
 
@@ -134,7 +134,7 @@
 
 									<div class="portfolio-item-details">
 
-										<h4><a href="jars-by-dani.php">Jars by Dani</a></h4>
+										<h4><a href="jars-by-dani.php">Sante Adairius Rustic Ales</a></h4>
 										<h6>UI DESIGN & DEVELOPMENT</h6>
 
 									</div><!-- portfolio-item-details -->
@@ -144,7 +144,7 @@
 
 									<div class="portfolio-item-thumbnail">
 
-										<a href="jars-by-dani.php"><img src="images/portfolio/jars-by-dani.jpg" alt=""></a>
+										<a href="rustic-ales.php"><img src="images/portfolio/rustic-ales.jpg" alt="Sante Adairius Rustic Ales"></a>
 
 									</div><!-- portfolio-item-thumbnail -->
 

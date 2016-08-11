@@ -2,7 +2,7 @@
 
 
         <!-- CONTENT -->
-        <div id="page-content">
+        <div id="page-content" class="full-width-content">
 
 			<div id="page-header">
                 <div class="container">
@@ -19,19 +19,7 @@
                 </div><!-- container -->
             </div><!-- page-header -->
 
-			<div class="container">
-				<div class="row">
-					<div class="col-sm-12">
 
-						<div class="headline">
-
-							<h1>Here's what we can do for you</h1>
-
-						</div><!-- headline -->
-
-					</div><!-- col -->
-				</div><!-- row -->
-			</div><!-- container -->
 
       <section class="full-section capability-left" id="digital-strategy">
 				<div class="full-section-container">
@@ -39,8 +27,6 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-7">
-
-								<!-- <p class="visible-xs"><img src="images/capabilities/digital-strategy-optimization.jpg" alt="Digital Strategy & Optimization"></p> -->
 
 							</div><!-- col -->
 							<div class="col-sm-4">
@@ -51,7 +37,7 @@
 
 								</div><!-- headline -->
 
-								<p>Research, collaboration, and careful planning are the foundation for every good idea. Our proven process brings together strategic thinking with flawless execution to produce results.z</p>
+								<p>Research, collaboration, and careful planning are the foundation for every good idea. Our proven process brings together strategic thinking with flawless execution to produce results.</p>
 
 								<br>
 
@@ -87,8 +73,6 @@
 							</div><!-- col -->
 							<div class="col-sm-7">
 
-								<p class="visible-xs"><img src="images/backgrounds/bg-1.jpg" alt=""></p>
-
 							</div><!-- col -->
 						</div><!-- row -->
 					</div><!-- container -->
@@ -102,8 +86,6 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-7">
-
-								<p class="visible-xs"><img src="images/backgrounds/bg-4.jpg" alt=""></p>
 
 							</div><!-- col -->
 							<div class="col-sm-4">
@@ -150,7 +132,6 @@
 							</div><!-- col -->
 							<div class="col-sm-7">
 
-								<p class="visible-xs"><img src="images/backgrounds/bg-1.jpg" alt=""></p>
 
 							</div><!-- col -->
 						</div><!-- row -->

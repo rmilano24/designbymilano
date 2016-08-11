@@ -81,14 +81,14 @@
 
                   <div class="portfolio-item-thumbnail">
 
-                    <a href="jars-by-dani.php"><img src="images/work/jars-by-dani.jpg" alt=""></a>
+                    <a href="fuse-architects.php"><img src="images/work/fuse.jpg" alt="fuse architects"></a>
 
                     <div class="portfolio-item-details">
 
-      								<h4><a href="tjars-by-dani.php">Jars by Dani</a></h4>
-      								<h6>UI + UX Design // Development</h6>
+                      <h4><a href="fuse-architects.php">Fuse Architects</a></h4>
+                      <h6>UI + UX Design //Development</h6>
 
-      							</div><!-- portfolio-item-details -->
+                    </div><!-- portfolio-item-details -->
 
                   </div><!-- portfolio-item-thumbnail -->
 
@@ -125,40 +125,6 @@
                   </div><!-- col -->
                   </div><!-- row -->
 
-                  <div class="row">
-                  <div class="col-sm-6">
-
-                    <div class="portfolio-item-thumbnail">
-
-                      <a href="ohm-light.php"><img src="images/work/ohm-light.jpg" alt="ohm light"></a>
-
-                      <div class="portfolio-item-details">
-
-        								<h4><a href="ohm-light.php">Ohm Light</a></h4>
-        								<h6>Branding // UI + UX Design // Development</h6>
-
-        							</div><!-- portfolio-item-details -->
-
-                    </div><!-- portfolio-item-thumbnail -->
-
-                  </div><!-- col -->
-                  <div class="col-sm-6">
-
-                    <div class="portfolio-item-thumbnail">
-
-                      <a href="pnhoffman.php"><img src="images/work/pnhoffman.jpg" alt=""></a>
-
-                      <div class="portfolio-item-details">
-
-        								<h4><a href="pnhoffman.php">Pnhoffman</a></h4>
-        								<h6>UI + UX Design // Development</h6>
-
-        							</div><!-- portfolio-item-details -->
-
-                    </div><!-- portfolio-item-thumbnail -->
-
-                  </div><!-- col -->
-                </div><!-- row -->
 
                 <div class="row">
                   <div class="col-sm-6">
@@ -181,12 +147,12 @@
 
                     <div class="portfolio-item-thumbnail">
 
-                      <a href="sante-winery.php"><img src="images/work/sante-winery.jpg" alt="sante-winery"></a>
+                      <a href="ohm-light.php"><img src="images/work/ohm-light.jpg" alt="ohm light"></a>
 
                       <div class="portfolio-item-details">
 
-        								<h4><a href="sante-winery.php">Sante Winery</a></h4>
-        								<h6>Development // Ecommerce</h6>
+                        <h4><a href="ohm-light.php">Ohm Light</a></h4>
+                        <h6>Branding // UI + UX Design // Development</h6>
 
         							</div><!-- portfolio-item-details -->
 
