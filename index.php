@@ -8,7 +8,7 @@
 		</video>
 		<div class="masthead-overlay"></div>
 		<div class="masthead-arrow"></div>
-		<h1>Elegant Solutions for Web & Mobile!</h1>
+		<h1>Elegant Solutions for Web & Mobile</h1>
 
 	</section>
 
