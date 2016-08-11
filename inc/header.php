@@ -59,7 +59,7 @@
           <div class="row">
               <div class="col-sm-3">
                   <div id="logo">
-                    <a href="index.php">
+                    <a href="index">
                       <img  width="60" height="69" src="assets/images/milano-dark.png" alt="Web and Mobile Design in Santa Cruz">
                     </a>
                   </div>
@@ -67,13 +67,13 @@
               <div class="col-sm-9">
                   <nav>
                       <a id="trigger-overlay" class="mobile-menu-button" href="#"><i class="mt-icon-menu"></i></a>
-                      
+
                       <ul class="menu clearfix" id="menu">
-                          <li><a href="work.php">work</a></li>
-                          <li><a href="about.php">about</a></li>
-                          <li><a href="capabilities.php">capabilities</a></li>
+                          <li><a href="work">work</a></li>
+                          <li><a href="about">about</a></li>
+                          <li><a href="capabilities">capabilities</a></li>
                           <!-- <li><a href="digest.php">digest</a></li> -->
-                          <li><a href="contact.php">Contact</a></li>
+                          <li><a href="contact">Contact</a></li>
                       </ul>
 
                 </nav>

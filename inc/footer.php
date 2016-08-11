@@ -4,7 +4,7 @@
 
   <div class="col-sm-12 cta">
 
-    <a href="contact.php">Start Your Project</a>
+    <a href="contact">Start Your Project</a>
 
   </div>
 
@@ -21,7 +21,7 @@
           <li>&copy; 2016 Milano Design</li>
           <li><a href="tel:18312396605">831-239-6605</a></li>
           <li>805 Rosedale Ave. Capitola, CA 95010</li>
-          <li><a href="contact.php">Contact</a></li>
+          <li><a href="contact">Contact</a></li>
         </ul>
 
 
@@ -33,7 +33,7 @@
 
       <div class="branding">
 
-        <a href="index.php"><img width="60" height="69" src="assets/images/milano-light.png" alt="Creative Branding Agency in Santa Cruz"></a>
+        <a href="index"><img width="60" height="69" src="assets/images/milano-light.png" alt="Creative Branding Agency in Santa Cruz"></a>
 
       </div><!-- widget-pages -->
 
@@ -53,11 +53,11 @@
 			<button type="button" class="overlay-close">Close</button>
 			<nav>
 				<ul>
-					<li><a href="#">Home</a></li>
-					<li><a href="#">About</a></li>
-					<li><a href="#">Work</a></li>
-					<li><a href="#">Clients</a></li>
-					<li><a href="#">Contact</a></li>
+          <li><a href="work">work</a></li>
+          <li><a href="about">about</a></li>
+          <li><a href="capabilities">capabilities</a></li>
+          <!-- <li><a href="digest.php">digest</a></li> -->
+          <li><a href="contact">Contact</a></li>
 				</ul>
 			</nav>
 		</div>
