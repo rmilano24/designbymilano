@@ -59,7 +59,7 @@
           <div class="row">
               <div class="col-sm-3">
                   <div id="logo">
-                    <a href="index">
+                    <a href="/">
                       <img  width="60" height="69" src="assets/images/milano-dark.png" alt="Web and Mobile Design in Santa Cruz">
                     </a>
                   </div>

@@ -33,7 +33,7 @@
 
       <div class="branding">
 
-        <a href="index"><img width="60" height="69" src="assets/images/milano-light.png" alt="Creative Branding Agency in Santa Cruz"></a>
+        <a href="/"><img width="60" height="69" src="assets/images/milano-light.png" alt="Creative Branding Agency in Santa Cruz"></a>
 
       </div><!-- widget-pages -->
 
