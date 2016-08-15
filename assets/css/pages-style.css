@@ -273,8 +273,8 @@
 		margin-top: 38px;
 		text-align: center;
 		text-decoration: none;
-		border: 3px solid #383838;
-		color: #383838;
+		border: 3px solid #333E48;
+		color: #333E48;
 		-webkit-transition: all 0.3s;
 				transition: all 0.3s;
 	}
@@ -282,6 +282,7 @@
 	.mobile-menu-button:hover {
 		border-color: #DAA25A;
 		color: #DAA25A;
+    text-decoration: none;
 	}
 
   .home .mobile-menu-button {
@@ -289,9 +290,7 @@
     color: #ffffff;
   }
 
-  .home .mobile-menu-button:hover {
-    text-decoration: none;
-  }
+
 
 	.mobile-menu,
 	.mobile-menu ul {
@@ -1074,6 +1073,7 @@
 		font-weight: 700;
 		letter-spacing: 1px;
 		color: #DAA25A;
+    text-transform: uppercase;
 	}
 
 	.portfolio-item-details .zoom-action {

@@ -43,7 +43,7 @@
     <link rel="stylesheet" href="assets/css/custom.css">
     <link rel="stylesheet" href="assets/css/pages-style.css">
 
-    <link rel="stylesheet" type="text/css" href="assets/css/normalize.css" />0
+    <link rel="stylesheet" type="text/css" href="assets/css/normalize.css" />
 		<link rel="stylesheet" type="text/css" href="assets/css/style9.css" />
 		<script src="assets/js/snap.svg-min.js"></script>
   	<script src="assets/js/modernizr.custom.js"></script>

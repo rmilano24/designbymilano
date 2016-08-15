@@ -138,9 +138,16 @@
   background-color: transparent;
 }
 
-  .home #header.scrolled {
-    background-color:#FFF;
+.home #header.scrolled {
+  background-color:#FFF;
   }
+
+  .home #header.scrolled .mobile-menu-button {
+    border: 3px solid #333E48;
+    color: #333E48;
+  }
+
+
   .testimonial {
     padding: 0 50px;
   }
@@ -335,6 +342,7 @@
 	.headline h6 {
 		font-weight: 700;
 		color: #DAA25A;
+    text-transform: uppercase;
 	}
 
 /***********************************************************************************
