@@ -339,6 +339,10 @@
 		margin-bottom: 0;
 	}
 
+  .headline h1 {
+    margin-top: 0;
+  }
+
 	.headline h6 {
 		font-weight: 700;
 		color: #DAA25A;
@@ -3043,6 +3047,24 @@
 		}
 
 	}
+
+  @media (max-width: 1200px) {
+
+    #footer-bottom .col-sm-7, #footer-bottom .col-sm-5 {
+      width: 100%;
+      text-align: center;
+    }
+
+    .cta {
+      padding: 75px 0 !important;
+    }
+
+    #footer-bottom .col-sm-5 .branding {
+      margin-top: 20px;
+      text-align: center;
+    }
+
+  }
 
 	@media (min-width: 1200px) and (max-width: 1399px) {
 

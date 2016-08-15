@@ -574,7 +574,7 @@
   }
 
   #rustic-ales {
-    background-image:url(../../images/work/next/next_rustic-ales.jpg);
+    background-image:url(../../images/work/headers/rustic.jpg);
   }
 
   #ohm-light {
@@ -584,6 +584,14 @@
   #pnhoffman {
     background-image:url(../../images/work/next/next_pnhoffman.jpg);
     background-position: top center;
+  }
+
+  #assemblytek {
+    background-image:url(../../images/work/headers/assemblytek.jpg);
+  }
+
+  #fuse {
+    background-image:url(../../images/work/headers/fuse.jpg);
   }
 
   #redwood-engineering {

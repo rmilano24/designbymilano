@@ -158,8 +158,8 @@
       			</div><!-- container -->
             </div><!-- PAGE CONTENT -->
 
-            <a href="jars-by-dani.php">
-              <section class="full-section dark-section next-project" id="jars-by-dani">
+            <a href="fuse-architects.php">
+              <section class="full-section dark-section next-project" id="fuse">
 
       				<div class="full-section-container">
 
@@ -170,7 +170,7 @@
       								<div class="headline">
 
       									<h2>Next</h2>
-      									<h6>Jars by Dani</h6>
+      									<h6>Fuse Architects</h6>
 
       								</div><!-- headline -->
 

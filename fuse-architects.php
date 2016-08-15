@@ -96,7 +96,7 @@
 
                     <div class="portfolio-item-thumbnail">
 
-                      <img src="images/work/rustic/rustic-mobile.jpg" alt="mobile design">
+                      <img src="images/work/fuse/fuse-1.jpg" alt="UI/UX Design">
 
                     </div><!-- portfolio-item-thumbnail -->
 
@@ -121,7 +121,7 @@
 
                     <div class="portfolio-item-thumbnail">
 
-                      <img src="images/work/rustic/rustic-desktop.jpg" alt="desktop">
+                      <img src="images/work/fuse/fuse-2.jpg" alt="UI/UX Design">
 
                     </div><!-- portfolio-item-thumbnail -->
 
@@ -152,7 +152,7 @@
               <div class="row">
                 <div class="col-sm-12">
 
-                  <img src="images/work/rustic/rustic-hero.jpg" alt="">
+                  <img src="images/work/fuse/fuse-3.jpg" alt="UI/UX Design">
 
                 </div><!-- col -->
               </div><!-- row -->

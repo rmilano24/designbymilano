@@ -161,8 +161,8 @@
 		        </div><!-- PAGE CONTENT -->
 
 
-                    <a href="pnhoffman.php">
-                      <section class="full-section dark-section next-project" id="pnhoffman">
+                    <a href="assemblytek.php">
+                      <section class="full-section dark-section next-project" id="assemblytek">
 
                       <div class="full-section-container">
 
@@ -173,7 +173,7 @@
                               <div class="headline">
 
                                 <h2>Next</h2>
-                                <h6>PN Hoffman</h6>
+                                <h6>AssemblyTek</h6>
 
                               </div><!-- headline -->
 
