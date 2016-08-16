@@ -74,7 +74,7 @@
 						</div><!-- portfolio-item -->
 
 
-						<div class="portfolio-item portfolio-creative thumbnail-right">
+						<div class="portfolio-item portfolio-creative thumbnail-right flex">
 
 							<div class="row">
 								<div class="col-sm-8">

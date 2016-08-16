@@ -9,7 +9,7 @@
     <meta name="keywords" content="">
     <meta name="description" content="">
 
-    <title>Milano Design | Elegant Solutions for Web & Mobile</title>
+    <title>Milano Design // Elegant Solutions for Web & Mobile</title>
 
     <!-- FAVICON AND APPLE TOUCH -->
     <link rel="shortcut icon" href="favicon.png">

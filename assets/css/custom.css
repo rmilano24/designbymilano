@@ -147,6 +147,16 @@
     color: #333E48;
   }
 
+.col-sm-11 {
+  padding-right:0;
+  margin-right: 0;
+}
+
+.flex .row {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
 
   .testimonial {
     padding: 0 50px;
@@ -3060,7 +3070,7 @@
     }
 
     #footer-bottom .col-sm-5 .branding {
-      margin-top: 20px;
+      margin-top: 30px;
       text-align: center;
     }
 

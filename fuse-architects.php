@@ -109,7 +109,7 @@
           </div><!-- row -->
         </div><!-- container -->
 
-        <div class="container">
+        <div class="container flex">
           <div class="row">
             <div class="col-sm-12">
 

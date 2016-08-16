@@ -159,8 +159,8 @@
 
         </div><!-- PAGE CONTENT -->
 
-        <a href="sante-winery.php">
-          <section class="full-section dark-section next-project" id="sante-winery">
+        <a href="ohm-light.php">
+          <section class="full-section dark-section next-project" id="ohm-light">
 
           <div class="full-section-container">
 
@@ -171,7 +171,7 @@
                   <div class="headline">
 
                     <h2>Next</h2>
-                    <h6>Sante Winery</h6>
+                    <h6>Ohm Light</h6>
 
                   </div><!-- headline -->
 

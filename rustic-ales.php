@@ -88,7 +88,7 @@
 
 
         <a href="ohm-light.php">
-          <section class="full-section dark-section next-project" id="ohm-light">
+          <section class="full-section dark-section next-project" id="redwood-engineering">
 
           <div class="full-section-container">
 
@@ -99,7 +99,7 @@
                   <div class="headline">
 
                     <h2>Next</h2>
-                    <h6>Ohm Light</h6>
+                    <h6>Redwood Engineering</h6>
 
                   </div><!-- headline -->
 
