@@ -152,11 +152,6 @@
   margin-right: 0;
 }
 
-.flex .row {
-  display: flex;
-  flex-direction: column-reverse;
-}
-
 
   .testimonial {
     padding: 0 50px;
@@ -3213,6 +3208,11 @@
  ***********************************************************************************/
 
 	@media (max-width: 767px) {
+
+    .flex .row {
+      display: flex;
+      flex-direction: column-reverse;
+    }
 
 		.last {
 			margin-bottom: 20px;
