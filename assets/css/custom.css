@@ -1909,6 +1909,8 @@
 
 
 
+
+
 	#section-4 {
 		margin-top: 30px;
 		padding: 100px 0 70px 0;
@@ -3270,6 +3272,14 @@
  ***********************************************************************************/
 
 	@media (max-width: 767px) {
+
+    #digital-strategy:before, #web-design:before, #branding:before, #development:before {
+      background: none;
+    }
+
+    .full-section {
+      padding: 0px;
+    }
 
     .flex .row {
       display: flex;

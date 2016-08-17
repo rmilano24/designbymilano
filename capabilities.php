@@ -28,6 +28,8 @@
 						<div class="row">
 							<div class="col-sm-7">
 
+                  <p class="visible-xs"><img src="images/capabilities/digital-strategy-optimization.jpg" alt="digital-strategy-optimization"></p>
+
 							</div><!-- col -->
 							<div class="col-sm-4">
 
@@ -53,7 +55,7 @@
 			<section class="full-section capability-right" id="web-design">
 				<div class="full-section-container">
 
-					<div class="container">
+					<div class="container flex">
 						<div class="row">
 
 							<div class="col-sm-4">
@@ -73,6 +75,8 @@
 							</div><!-- col -->
 							<div class="col-sm-7">
 
+                <p class="visible-xs"><img src="images/capabilities/digital-strategy-optimization.jpg" alt="digital-strategy-optimization"></p>
+
 							</div><!-- col -->
 						</div><!-- row -->
 					</div><!-- container -->
@@ -86,6 +90,8 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-7">
+
+                <p class="visible-xs"><img src="images/capabilities/digital-strategy-optimization.jpg" alt="digital-strategy-optimization"></p>
 
 							</div><!-- col -->
 							<div class="col-sm-4">
@@ -112,7 +118,7 @@
 			<section class="full-section capability-right" id="development">
 				<div class="full-section-container">
 
-					<div class="container">
+					<div class="container flex">
 						<div class="row">
 
 							<div class="col-sm-4">
@@ -130,8 +136,9 @@
 								<!-- <a class="btn btn-default" href="#">Read more</a> -->
 
 							</div><!-- col -->
-							<div class="col-sm-7">
+              <div class="col-sm-7">
 
+                <p class="visible-xs"><img src="images/capabilities/digital-strategy-optimization.jpg" alt="digital-strategy-optimization"></p>
 
 							</div><!-- col -->
 						</div><!-- row -->
