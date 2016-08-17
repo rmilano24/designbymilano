@@ -54,7 +54,7 @@
 
             <h1>Social</h1>
 
-            <a target="_blank" href="https://www.linkedin.com/in/ryanmilano">LinkeIn</a> // <a target="_blank" href="https://www.instagram.com/ryan.milano24/">Instagram</a>
+            <a target="_blank" href="https://www.linkedin.com/in/ryanmilano">LinkedIn</a> // <a target="_blank" href="https://www.instagram.com/ryan.milano24/">Instagram</a>
 
 
           </div><!-- col -->
