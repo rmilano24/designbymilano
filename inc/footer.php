@@ -4,7 +4,9 @@
 
   <div class="col-sm-12 cta">
 
-    <a href="contact">Start Your Project</a>
+    <!-- <a href="contact">Start Your Project</a> -->
+
+    <a class="link link--takiri" href="contact">Start Your Project</a>
 
   </div>
 
