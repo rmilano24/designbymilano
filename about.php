@@ -61,17 +61,6 @@
 
                       <p>This means I can support your project at any stage it needs it. From strategy and brainstorming ideas, to defining the user experience, to interface design, to development, I love bringing great ideas to life no matter the screen size or platform.</p>
 
-                      <ul class="disc-list">
-                        <li>PRODUCT STRATEGY</li>
-                        <li>USER EXPERIENCE</li>
-                        <li>VISUAL DESIGN</li>
-                        <li>DEVELOPMENT</li>
-                      </ul>
-
-                      <br>
-
-                      <a class="btn btn-black" href="#">Read more</a>
-
                     </div><!-- col -->
                     <div class="col-sm-5">
 
