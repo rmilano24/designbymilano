@@ -3273,6 +3273,11 @@
 
 	@media (max-width: 767px) {
 
+
+  .testimonial p { font-size: 18px; line-height: 30px;}
+
+  .testimonial .person { font-size: 14px; line-height: 22px}
+
     #digital-strategy:before, #web-design:before, #branding:before, #development:before {
       background: none;
     }
