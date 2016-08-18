@@ -211,16 +211,16 @@
 
 													<div class="blog-article-details">
 
-														<h3><a href="switching-to-sketch.php">12 Reasons to Switch from Photoshop.</h3>
+														<h3>12 Reasons to Switch from Photoshop.</h3>
 
-														<h6>
+														<!-- <h6>
 															<a href="#">Ryan Milano</a>
 															<a href="#">Jan 17, 2016</a>
-														</h6>
+														</h6> -->
 
 														<p>Designers were talking about Sketch App by Bohemian Coding since its release in late 2010. Almost five years later, the program is becoming more and more ubiquitous amongst designers and developers.</p>
 
-														<h5 class="read-more"><a href="switching-to-sketch.php">Read more</a></h5>
+														 <h5 class="read-more">Coming Soon</h5>
 
 													</div><!-- blog-article-details -->
 
