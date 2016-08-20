@@ -70,17 +70,24 @@
                   </div>
               </div>
               <div class="col-sm-9">
-                  <nav>
+                <nav>
+                    <a id="trigger-overlay" class="mobile-menu-button" href="#">
+                      <div class="hamburger hamburger--collapse">
+                        <div class="hamburger-box">
+                          <div class="hamburger-inner"></div>
+                        </div>
+                      </div>
+                    </a>
 
-                    <a id="trigger-overlay" class="mobile-menu-button" href="#"><i class="mt-icon-menu"></i></a>
+                    <ul class="menu clearfix" id="menu">
+                        <li><a href="work">work</a></li>
+                        <li><a href="about">about</a></li>
+                        <li><a href="capabilities">capabilities</a></li>
+                        <!-- <li><a href="digest.php">digest</a></li> -->
+                        <li><a href="contact">Contact</a></li>
+                    </ul>
 
-                      <ul class="menu clearfix" id="menu">
-                          <li><a href="work">work</a></li>
-                          <li><a href="about">about</a></li>
-                          <li><a href="capabilities">capabilities</a></li>
-                          <!-- <li><a href="digest.php">digest</a></li> -->
-                          <li><a href="contact">contact</a></li>
-                      </ul>
+              </nav>
 
                 </nav>
 

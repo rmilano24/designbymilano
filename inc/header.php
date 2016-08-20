@@ -69,7 +69,13 @@
               </div>
               <div class="col-sm-9">
                   <nav>
-                      <a id="trigger-overlay" class="mobile-menu-button" href="#"><i class="mt-icon-menu"></i></a>
+                      <a id="trigger-overlay" class="mobile-menu-button" href="#">
+                        <div class="hamburger hamburger--collapse">
+                          <div class="hamburger-box">
+                            <div class="hamburger-inner"></div>
+                          </div>
+                        </div>
+                      </a>
 
                       <ul class="menu clearfix" id="menu">
                           <li><a href="work">work</a></li>

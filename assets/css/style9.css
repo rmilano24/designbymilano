@@ -6,11 +6,11 @@
 	top: 0;
 	left: 0;
 	background: rgba(51,62,72,0.9);
-	z-index: 9999999999999999 !important;
+	/*z-index: 2222222222;*/
 }
 
 /* Overlay closing cross */
-.overlay .overlay-close {
+/*.overlay .overlay-close {
 	width: 80px;
 	height: 80px;
 	position: absolute;
@@ -23,7 +23,7 @@
 	color: transparent;
 	outline: none;
 	z-index: 100;
-}
+}*/
 
 /* Menu style */
 .overlay nav {

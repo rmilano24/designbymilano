@@ -1,7 +1,7 @@
 (function() {
 	var triggerBttn = document.getElementById( 'trigger-overlay' ),
 		overlay = document.querySelector( 'div.overlay' ),
-		closeBttn = overlay.querySelector( 'button.overlay-close' );
+		closeBttn = document.querySelector( 'button.overlay-close' );
 		transEndEventNames = {
 			'WebkitTransition': 'webkitTransitionEnd',
 			'MozTransition': 'transitionend',
@@ -11,7 +11,7 @@
 		},
 		transEndEventName = transEndEventNames[ Modernizr.prefixed( 'transition' ) ],
 		support = { transitions : Modernizr.csstransitions };
-		s = Snap( overlay.querySelector( 'svg' ) ), 
+		s = Snap( overlay.querySelector( 'svg' ) ),
 		path = s.select( 'path' ),
 		pathConfig = {
 			from : path.attr( 'd' ),
@@ -22,11 +22,11 @@
 		if( classie.has( overlay, 'open' ) ) {
 			classie.remove( overlay, 'open' );
 			classie.add( overlay, 'close' );
-			
+
 			var onEndTransitionFn = function( ev ) {
 				classie.remove( overlay, 'close' );
 			};
-			
+
 			path.animate( { 'path' : pathConfig.from }, 400, mina.linear, onEndTransitionFn );
 		}
 		else if( !classie.has( overlay, 'close' ) ) {

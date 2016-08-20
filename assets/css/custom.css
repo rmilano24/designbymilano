@@ -127,8 +127,8 @@
 		line-height: 2.117647059;
 	}
   #header {
-    z-index: 999999;
-    position: fixed !important;
+    /*z-index: 999999;
+    position: fixed !important;*/
     top: 0;
     width:100%;
     background: #fff;
@@ -136,6 +136,9 @@
 
 .home #header {
   background-color: transparent;
+  position: absolute;
+  z-index: 999;
+  top: 0px;
 }
 
 .home #header.scrolled {
@@ -1670,7 +1673,7 @@
 
 	.full-section-container {
 		position: relative;
-		z-index: 2;
+		/*z-index: 2;*/
 	}
 
 	.full-screen .full-section-container {

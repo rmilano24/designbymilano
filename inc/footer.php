@@ -52,7 +52,7 @@
 			<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1440 806" preserveAspectRatio="none">
 				<path class="overlay-path" d="m 0,0 1439.999975,0 0,805.99999 0,-805.99999 z"/>
 			</svg>
-			<button type="button" class="overlay-close">Close</button>
+			<!-- <button type="button" class="overlay-close">Close</button> -->
 			<nav>
 				<ul>
           <li><a href="work">work</a></li>
@@ -151,6 +151,20 @@
 // $('.masthead-video').coverVid(1920, 1080);
 // If not using jQuery (Native Javascript)
 coverVid(document.querySelector('.masthead-video'), 640, 360);
+</script>
+
+<script>
+
+  var forEach=function(t,o,r){if("[object Object]"===Object.prototype.toString.call(t))for(var c in t)Object.prototype.hasOwnProperty.call(t,c)&&o.call(r,t[c],c,t);else for(var e=0,l=t.length;l>e;e++)o.call(r,t[e],e,t)};
+
+  var hamburgers = document.querySelectorAll(".hamburger");
+  if (hamburgers.length > 0) {
+    forEach(hamburgers, function(hamburger) {
+      hamburger.addEventListener("click", function() {
+        this.classList.toggle("is-active");
+      }, false);
+    });
+  }
 </script>
 
 
