@@ -53,7 +53,7 @@
 
 </head>
 
-<body>
+<body class="inner-page">
 
   <!-- HEADER -->
   <header id="header">

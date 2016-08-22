@@ -1,4 +1,6 @@
-<?php include 'inc/header-home.php'; ?>
+<?php
+$is_homepage = true;
+include 'inc/header-home.php'; ?>
 
 <!-- Video Markup -->
 	<section class="masthead">

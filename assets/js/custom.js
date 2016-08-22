@@ -80,7 +80,14 @@
 
 	}
 
-
+ // SWAP HEADER ICON IMAGES WHEN MOBILE NAV ACTIVATED
+ $('.inner-page #trigger-overlay .hamburger').click(function(){
+	 if($(this).hasClass('is-active')){
+		 $('#header #logo img').attr('src', 'assets/images/milano-dark.png');
+	 } else {
+		 $('#header #logo img').attr('src', 'assets/images/milano-light.png');
+	 }
+ });
 	// STICKY //
 	//function sticky() {
 
@@ -374,7 +381,7 @@
 	$(document).ready(function(){
 
 		// STICKY //
-		sticky();
+	//	sticky();
 
 
 		// MENU //

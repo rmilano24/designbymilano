@@ -138,8 +138,9 @@
 
 <!-- CUSTOM JS -->
 <script src="assets/js/custom.js"></script>
-
+<?php if($is_homepage) { ?>
 <script src="assets/js/covervid.min.js"></script>
+<?php } ?>
 <script src="assets/js/scripts.js"></script>
 
 <script src="assets/js/classie.js"></script>
