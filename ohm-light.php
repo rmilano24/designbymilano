@@ -161,7 +161,7 @@
 		        </div><!-- PAGE CONTENT -->
 
 
-                    <a href="assemblytek.php">
+                    <a href="assemblytek">
                       <section class="full-section dark-section next-project" id="assemblytek">
 
                       <div class="full-section-container">

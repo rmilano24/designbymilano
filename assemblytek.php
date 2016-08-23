@@ -159,7 +159,7 @@
             </div><!-- PAGE CONTENT -->
 
 
-            <a href="sante-winery.php">
+            <a href="sante-winery">
               <section class="full-section dark-section next-project" id="sante-winery">
 
               <div class="full-section-container">

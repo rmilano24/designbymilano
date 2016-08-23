@@ -167,7 +167,7 @@
 
       </div><!-- PAGE CONTENT -->
 
-      <a href="the-barre-studio.php">
+      <a href="the-barre-studio">
         <section class="full-section dark-section next-project" id="barre">
 
 				<div class="full-section-container">

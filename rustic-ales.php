@@ -87,7 +87,7 @@
           </div><!-- PAGE CONTENT -->
 
 
-        <a href="redwood-engineering.php">
+        <a href="redwood-engineering">
           <section class="full-section dark-section next-project" id="redwood-engineering">
 
           <div class="full-section-container">

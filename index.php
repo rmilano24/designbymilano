@@ -55,7 +55,7 @@ include 'inc/header-home.php'; ?>
 
 									<div class="portfolio-item-details">
 
-										<h4><a href="aatma.php">Aatma</a></h4>
+										<h4><a href="aatma">Aatma</a></h4>
 										<h6>UI DESIGN & DEVELOPMENT</h6>
 
 									</div><!-- portfolio-item-details -->
@@ -65,7 +65,7 @@ include 'inc/header-home.php'; ?>
 
 									<div class="portfolio-item-thumbnail">
 
-										<a href="aatma.php"><img src="images/work/aatma.jpg" alt="aatma studio"></a>
+										<a href="aatma"><img src="images/work/aatma.jpg" alt="aatma studio"></a>
 
 									</div><!-- portfolio-item-thumbnail -->
 
@@ -83,7 +83,7 @@ include 'inc/header-home.php'; ?>
 
 									<div class="portfolio-item-thumbnail">
 
-										<a href="the-barre-studio.php"><img src="images/portfolio/the-barre-studio.jpg" alt=""></a>
+										<a href="the-barre-studio"><img src="images/portfolio/the-barre-studio.jpg" alt=""></a>
 
 									</div><!-- portfolio-item-thumbnail -->
 
@@ -92,7 +92,7 @@ include 'inc/header-home.php'; ?>
 
 									<div class="portfolio-item-details">
 
-										<h4><a href="the-barre-studio.php">The Barre Studio</a></h4>
+										<h4><a href="the-barre-studio">The Barre Studio</a></h4>
 										<h6>UI DESIGN & DEVELOPMENT</h6>
 
 									</div><!-- portfolio-item-details -->
@@ -109,7 +109,7 @@ include 'inc/header-home.php'; ?>
 
 									<div class="portfolio-item-details">
 
-                    <h4><a href="ohm-light.php">Ohm Light</a></h4>
+                    <h4><a href="ohm-light">Ohm Light</a></h4>
                     <h6>UI DESIGN & DEVELOPMENT</h6>
 
                   </div>
@@ -120,7 +120,7 @@ include 'inc/header-home.php'; ?>
 
 									<div class="portfolio-item-thumbnail">
 
-										<a href="ohm-light.php"><img src="images/portfolio/ohm-light.jpg" alt="ohm light"></a>
+										<a href="ohm-light"><img src="images/portfolio/ohm-light.jpg" alt="ohm light"></a>
 
 									</div><!-- portfolio-item-thumbnail -->
 
@@ -136,7 +136,7 @@ include 'inc/header-home.php'; ?>
 
 									<div class="portfolio-item-details">
 
-										<h4><a href="jars-by-dani.php">Sante Adairius Rustic Ales</a></h4>
+										<h4><a href="jars-by-dani">Sante Adairius Rustic Ales</a></h4>
 										<h6>UI DESIGN & DEVELOPMENT</h6>
 
 									</div><!-- portfolio-item-details -->
@@ -146,7 +146,7 @@ include 'inc/header-home.php'; ?>
 
 									<div class="portfolio-item-thumbnail">
 
-										<a href="rustic-ales.php"><img src="images/portfolio/rustic-ales.jpg" alt="Sante Adairius Rustic Ales"></a>
+										<a href="rustic-ales"><img src="images/portfolio/rustic-ales.jpg" alt="Sante Adairius Rustic Ales"></a>
 
 									</div><!-- portfolio-item-thumbnail -->
 
@@ -165,7 +165,7 @@ include 'inc/header-home.php'; ?>
 
 						<br class="visible-block-xs">
 
-						<p class="text-right"><a href="work.php"><em><strong>View All Work</strong></em></a></p>
+						<p class="text-right"><a href="work"><em><strong>View All Work</strong></em></a></p>
 
 					</div><!-- col -->
 				</div><!-- row -->

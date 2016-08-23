@@ -161,7 +161,7 @@
           </div><!-- PAGE CONTENT -->
 
 
-        <a href="rustic-ales.php">
+        <a href="rustic-ales">
           <section class="full-section dark-section next-project" id="rustic-ales">
 
           <div class="full-section-container">

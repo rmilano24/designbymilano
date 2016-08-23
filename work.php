@@ -45,11 +45,11 @@
 
                   <div class="portfolio-item-thumbnail">
 
-										<a href="aatma.php"><img src="images/work/aatma.jpg" alt="aatma studio"></a>
+										<a href="aatma"><img src="images/work/aatma.jpg" alt="aatma studio"></a>
 
                     <div class="portfolio-item-details">
 
-      								<h4><a href="aatma.php">Aatma Studio</a></h4>
+      								<h4><a href="aatma">Aatma Studio</a></h4>
       								<h6>UI + UX Design // Development</h6>
 
       							</div><!-- portfolio-item-details -->
@@ -62,11 +62,11 @@
 
 									<div class="portfolio-item-thumbnail">
 
-										<a href="the-barre-studio.php"><img src="images/work/the-barre-studio.jpg" alt="the barre studio"></a>
+										<a href="the-barre-studio"><img src="images/work/the-barre-studio.jpg" alt="the barre studio"></a>
 
                     <div class="portfolio-item-details">
 
-      								<h4><a href="the-barre-studio.php">The Barre Studio</a></h4>
+      								<h4><a href="the-barre-studio">The Barre Studio</a></h4>
       								<h6>UI + UX Design // Development</h6>
 
       							</div><!-- portfolio-item-details -->
@@ -81,11 +81,11 @@
 
                   <div class="portfolio-item-thumbnail">
 
-                    <a href="fuse-architects.php"><img src="images/work/fuse.jpg" alt="fuse architects"></a>
+                    <a href="fuse-architects"><img src="images/work/fuse.jpg" alt="fuse architects"></a>
 
                     <div class="portfolio-item-details">
 
-                      <h4><a href="fuse-architects.php">Fuse Architects</a></h4>
+                      <h4><a href="fuse-architects">Fuse Architects</a></h4>
                       <h6>UI + UX Design //Development</h6>
 
                     </div><!-- portfolio-item-details -->
@@ -97,11 +97,11 @@
 
                   <div class="portfolio-item-thumbnail">
 
-                    <a href="rustic-ales.php"><img src="images/work/rustic-ales.jpg" alt="sante adairius rustic ales"></a>
+                    <a href="rustic-ales"><img src="images/work/rustic-ales.jpg" alt="sante adairius rustic ales"></a>
 
                     <div class="portfolio-item-details">
 
-      								<h4>Rustic Ales</h4>
+      								<h4><a href="rustic-ales">Rustic Ales</a></h4>
       								<h6>Currently Doing a Redesign</h6>
 
       							</div><!-- portfolio-item-details -->
@@ -131,11 +131,11 @@
 
                     <div class="portfolio-item-thumbnail">
 
-                      <a href="redwood-engineering.php"><img src="images/work/redwood-engineering.jpg" alt="redwood engineering"></a>
+                      <a href="redwood-engineering"><img src="images/work/redwood-engineering.jpg" alt="redwood engineering"></a>
 
                       <div class="portfolio-item-details">
 
-        								<h4><a href="redwood-engineering.php">Redwood Engineering</a></h4>
+        								<h4><a href="redwood-engineering">Redwood Engineering</a></h4>
         								<h6>Branding // UI + UX Design // Development</h6>
 
         							</div><!-- portfolio-item-details -->
@@ -147,11 +147,11 @@
 
                     <div class="portfolio-item-thumbnail">
 
-                      <a href="ohm-light.php"><img src="images/work/ohm-light.jpg" alt="ohm light"></a>
+                      <a href="ohm-light"><img src="images/work/ohm-light.jpg" alt="ohm light"></a>
 
                       <div class="portfolio-item-details">
 
-                        <h4><a href="ohm-light.php">Ohm Light</a></h4>
+                        <h4><a href="ohm-light">Ohm Light</a></h4>
                         <h6>Branding // UI + UX Design // Development</h6>
 
         							</div><!-- portfolio-item-details -->
@@ -166,11 +166,11 @@
 
                     <div class="portfolio-item-thumbnail">
 
-                      <a href="assemblytek.php"><img src="images/work/assemblytek.jpg" alt="assemblytek"></a>
+                      <a href="assemblytek"><img src="images/work/assemblytek.jpg" alt="assemblytek"></a>
 
                       <div class="portfolio-item-details">
 
-        								<h4><a href="redwood-engineering.php">Assemblytek</a></h4>
+        								<h4><a href="redwood-engineering">Assemblytek</a></h4>
         								<h6>Branding // UI + UX Design // Development</h6>
 
         							</div><!-- portfolio-item-details -->
@@ -182,11 +182,11 @@
 
                     <div class="portfolio-item-thumbnail">
 
-                      <a href="sante-winery.php"><img src="images/work/sante-winery.jpg" alt="sante-winery"></a>
+                      <a href="sante-winery"><img src="images/work/sante-winery.jpg" alt="sante-winery"></a>
 
                       <div class="portfolio-item-details">
 
-        								<h4><a href="sante-winery.php">Sante Winery</a></h4>
+        								<h4><a href="sante-winery">Sante Winery</a></h4>
         								<h6>Development // Ecommerce</h6>
 
         							</div><!-- portfolio-item-details -->

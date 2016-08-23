@@ -158,7 +158,7 @@
       			</div><!-- container -->
             </div><!-- PAGE CONTENT -->
 
-            <a href="fuse-architects.php">
+            <a href="fuse-architects">
               <section class="full-section dark-section next-project" id="fuse">
 
       				<div class="full-section-container">

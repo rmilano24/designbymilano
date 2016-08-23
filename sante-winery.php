@@ -160,7 +160,7 @@
 
         </div><!-- PAGE CONTENT -->
 
-        <a href="aatma.php">
+        <a href="aatma">
           <section class="full-section dark-section next-project" id="aatma">
 
           <div class="full-section-container">

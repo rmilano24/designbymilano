@@ -159,7 +159,7 @@
 
         </div><!-- PAGE CONTENT -->
 
-        <a href="ohm-light.php">
+        <a href="ohm-light">
           <section class="full-section dark-section next-project" id="ohm-light">
 
           <div class="full-section-container">
