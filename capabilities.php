@@ -75,7 +75,7 @@
 							</div><!-- col -->
 							<div class="col-sm-7">
 
-                <p class="visible-xs"><img src="images/capabilities/digital-strategy-optimization.jpg" alt="digital-strategy-optimization"></p>
+                <p class="visible-xs"><img src="images/capabilities/web-design-user-experience.jpg" alt="Web Design & User Experience"></p>
 
 							</div><!-- col -->
 						</div><!-- row -->
@@ -91,7 +91,7 @@
 						<div class="row">
 							<div class="col-sm-7">
 
-                <p class="visible-xs"><img src="images/capabilities/digital-strategy-optimization.jpg" alt="digital-strategy-optimization"></p>
+                <p class="visible-xs"><img src="images/capabilities/branding-communications.jpg" alt="Brand & Communications"></p>
 
 							</div><!-- col -->
 							<div class="col-sm-4">
@@ -138,7 +138,7 @@
 							</div><!-- col -->
               <div class="col-sm-7">
 
-                <p class="visible-xs"><img src="images/capabilities/digital-strategy-optimization.jpg" alt="digital-strategy-optimization"></p>
+                <p class="visible-xs"><img src="images/capabilities/web-mobile-applications.jpg" alt="Web & Mobile Applications"></p>
 
 							</div><!-- col -->
 						</div><!-- row -->
