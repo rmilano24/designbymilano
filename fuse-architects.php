@@ -84,10 +84,10 @@
 
                     <div class="portfolio-item-details">
 
-                      <h4><a href="portfolio-single.html">Lamp design</a></h4>
+                      <!-- <h4><a href="portfolio-single.html">Lamp design</a></h4>
                       <h6>Campaigns</h6>
 
-                      <p>Phasellus in ante ac tortor ali quam mollis in sit amet libero. Vesti bulum a accums.</p>
+                      <p>Phasellus in ante ac tortor ali quam mollis in sit amet libero. Vesti bulum a accums.</p> -->
 
                     </div><!-- portfolio-item-details -->
 
@@ -131,10 +131,10 @@
 
                     <div class="portfolio-item-details">
 
-                      <h4><a href="portfolio-single.html">Lamp design</a></h4>
+                      <!-- <h4><a href="portfolio-single.html">Lamp design</a></h4>
                       <h6>Campaigns</h6>
 
-                      <p>Phasellus in ante ac tortor ali quam mollis in sit amet libero. Vesti bulum a accums.</p>
+                      <p>Phasellus in ante ac tortor ali quam mollis in sit amet libero. Vesti bulum a accums.</p> -->
 
                     </div><!-- portfolio-item-details -->
 
