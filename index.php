@@ -83,7 +83,7 @@ include 'inc/header-home.php'; ?>
 
 									<div class="portfolio-item-thumbnail">
 
-										<a href="the-barre-studio"><img src="images/portfolio/the-barre-studio.jpg" alt=""></a>
+										<a href="the-barre-studio"><img src="images/portfolio/the-barre-studio.jpg" alt="the barre studio capitola"></a>
 
 									</div><!-- portfolio-item-thumbnail -->
 
@@ -136,7 +136,7 @@ include 'inc/header-home.php'; ?>
 
 									<div class="portfolio-item-details">
 
-										<h4><a href="jars-by-dani">Sante Adairius Rustic Ales</a></h4>
+										<h4><a href="rustic-ales">Sante Adairius Rustic Ales</a></h4>
 										<h6>UI DESIGN & DEVELOPMENT</h6>
 
 									</div><!-- portfolio-item-details -->
