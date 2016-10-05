@@ -20,20 +20,20 @@
             </div><!-- page-header -->
 
 
-            <section class="full-section" style="padding-bottom:0;">
+            <section class="full-section hero-banner">
               <div class="full-section-container">
 
-                <div class="rotate-links">
+                <!-- <div class="rotate-links">
 
                   <a href="#">Facebook</a>
                   <a href="#">Twitter</a>
                   <a href="#">LinkedIn</a>
 
-                </div><!-- rotate-links -->
+                </div> -->
 
                 <div class="container-fluid">
                   <div class="row">
-                    <div class="col-sm-offset-1 col-sm-11">
+                    <div class="col-sm-12">
 
                       <div class="owl-carousel images-slider rustic-ales">
                         <div class="item">
@@ -55,10 +55,11 @@
 
               <h4 class="text-default-color">Services</h4>
 
-              <br>
-
-              <p><span class="text-uppercase">UI + UX Design<p>
-              <p><span class="text-uppercase">Development [ In Progress ]<p>
+              <ul class="services">
+                <li>UI/UX Design</li>
+                <li>Front-end Development</li>
+                <li>WordPress [In Progress]</li>
+              </ul>
 
             </div><!-- col -->
             <div class="col-md-8 col-sm-6">

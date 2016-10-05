@@ -575,9 +575,22 @@
 
 	#page-header {
 		padding: 75px 0;
-		margin-bottom: 100px;
 		background-color: #fafafa;
 	}
+
+  .hero-banner {
+    padding:0px !important;
+  }
+
+  .services {
+    text-transform: uppercase;
+    margin-top:17px;
+    list-style-type: none;
+  }
+
+  .services li {
+    padding-bottom: 5px;
+  }
 
 	#page-header h2 {
 		text-align: right;
