@@ -5,7 +5,7 @@
 
       <div id="page-content">
 
-			<div id="page-header">
+			<div id="page-header" style="margin-bottom: 100px;">
                 <div class="container">
                     <div class="row">
 						<div class="col-sm-3">
